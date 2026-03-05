@@ -15,3 +15,13 @@ https://drive.google.com/drive/folders/1vxoQe0nGRYmfea9x8RJPlPmKVwlPRV5z?usp=dri
 - OpenCV
 - Deep Learning
 - Computer Vision
+
+Detection Results
+Person Detection
+[image]
+
+Book Detection
+[image]
+
+Bottle Detection
+[image]
