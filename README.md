@@ -25,3 +25,14 @@ Book Detection
 
 Bottle Detection
 [image]
+
+## How to Run the Project
+
+1. Clone the repository
+2. Go to the project folder
+3. Install required packages
+-pip install -r requirements.txt  (run first)
+-pip install opencv-python torch ultralytics (run next)
+-python d:\san\object-detection.py (Run the project)
+4. The webcam will start and the AI model will detect objects in real time.
+
