@@ -7,7 +7,7 @@ This project detects objects and calculates distance using YOLOv8 and OpenCV in 
 Due to GitHub file size limitations, the complete project files are available below:
 
 🔗 Download Full Project:
-https://drive.google.com/drive/folders/1vxoQe0nGRYmfea9x8RJPlPmKVwlPRV5z?usp=drive_link
+https://drive.google.com/drive/folders/1iXI-Sf_kKZU0vKl6F08ZV6JS58GK9Nsm?usp=drive_link
 
 ## Technologies Used
 - Python
