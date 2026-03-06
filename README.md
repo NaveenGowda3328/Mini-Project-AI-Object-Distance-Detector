@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1iXI-Sf_kKZU0vKl6F08ZV6JS58GK9Nsm?usp=dri
 - Python
 - YOLOv8
 - OpenCV
-- Deep Learning
+- torch ultralytics
 - Computer Vision
 
 Detection Results
